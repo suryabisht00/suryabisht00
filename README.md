@@ -32,7 +32,7 @@ Feel free to explore my projects in this repository. I love working on diverse p
 ## Contact Me
 
 If you have any questions, suggestions, or just want to connect, you can reach out to me at [suryabisht00@protonmail.com](mailto:suryabisht00@protonmail.com) 
-[suryabisht00](connect:https://www.linkedin.com/in/suryabisht00)
+ you can also connect me on linkedin [www.linkedin.com/in/suryabisht00](https://www.linkedin.com/in/suryabisht00)
 . Let's collaborate and build amazing things together!
 
 ---
