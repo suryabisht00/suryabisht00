@@ -2,8 +2,8 @@
 -👋 Hi, I’m @suryabisht00
 - 🔭 I’m currently working on data science
 - 🌱 I’m currently learning Nextjs(full stack)
-- 👯 I’m looking to collaborate on Data science projects
-- 💬 Ask me about coding and data science
+- 👯 I’m looking to collaborate on Next js (full stack) as well as Data science projects 
+- 💬 Ask me about python , data science and web development
 - 📫 How to reach me: search @suryabisht00 in insta as well as youtube and other social media sites
 - 😄 Pronouns: suraj bisht
 - ⚡ Fun fact: i am crazi about my work :)
@@ -12,7 +12,7 @@
 # Welcome to the suryabisht00 Repository
 
 ## Introduction
-Hello there! I'm suryabisht00, and this is my GitHub repository. I have a passion for programming and have experience in various technologies, including Git, Python, C, C++, MySQL, and front-end development. This repository is where I showcase my projects and share my knowledge.
+Hello there! I'm suryabisht00, and this is my GitHub repository. I have a passion for programming and have experience in various technologies, including Git, Python, C, C++, MySQL, and full-stack web development. This repository is where I showcase my projects and share my knowledge.
 
 ## Technologies I Work With
 
@@ -23,6 +23,8 @@ Hello there! I'm suryabisht00, and this is my GitHub repository. I have a passio
 - **C and C++:** I have a strong foundation in C and C++ programming for system-level and performance-critical tasks.
 
 - **MySQL:** I work with MySQL to manage and analyze data efficiently.
+
+- **Next js:** I work with Next js to create full stack web apps.
 
 
 ## Projects
