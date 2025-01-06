@@ -1,7 +1,7 @@
 ### Hi there 
 -👋 Hi, I’m @suryabisht00
 - 🔭 I’m currently working on data science
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Nextjs(full stack)
 - 👯 I’m looking to collaborate on Data science projects
 - 💬 Ask me about coding and data science
 - 📫 How to reach me: search @suryabisht00 in insta as well as youtube and other social media sites
